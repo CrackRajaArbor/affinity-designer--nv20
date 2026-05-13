@@ -1,4 +1,4 @@
-# 
+# Get the ultimate Affinity Designer for macOS panel with Affinity Designer for macOS new Panel - export presets and real-time preview. Featuring export presets and real-time
 
 
 
